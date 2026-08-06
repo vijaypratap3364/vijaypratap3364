@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "gifFrames": 155,
+  "gifSize": [
+    1280,
+    360
+  ],
+  "telemetrySize": [
+    1280,
+    150
+  ],
+  "missionOutputSize": [
+    1280,
+    176
+  ],
+  "frameDurationMs": 200,
+  "estimatedLoopSeconds": 31.0
+}

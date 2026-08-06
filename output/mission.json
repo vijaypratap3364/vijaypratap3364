@@ -8,6 +8,6 @@
   "payloadUnits": 151,
   "returnsToBase": true,
   "heroFormat": "animated-gif",
-  "frameCount": 72,
-  "frameDurationMs": 170
+  "frameDurationMs": 200,
+  "frameCount": 178
 }

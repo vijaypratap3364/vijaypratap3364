@@ -15,7 +15,7 @@ from lunabot.renderer import render_lunabot
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Generate the production Lunabot GIF and static fallback."
+        description="Generate separated Lunabot profile assets."
     )
     parser.add_argument(
         "--input",
@@ -33,12 +33,21 @@ def main() -> int:
         default=REPO_ROOT / "assets" / "lunabot-static.png",
     )
     parser.add_argument(
+        "--telemetry",
+        type=Path,
+        default=REPO_ROOT / "assets" / "mission-telemetry.png",
+    )
+    parser.add_argument(
+        "--result",
+        type=Path,
+        default=REPO_ROOT / "assets" / "mission-output.png",
+    )
+    parser.add_argument(
         "--mission",
         type=Path,
         default=REPO_ROOT / "output" / "mission.json",
     )
-    parser.add_argument("--frames", type=int, default=72)
-    parser.add_argument("--frame-duration-ms", type=int, default=170)
+    parser.add_argument("--frame-duration-ms", type=int, default=200)
     args = parser.parse_args()
 
     calendar = json.loads(args.input.read_text(encoding="utf-8"))
@@ -49,7 +58,8 @@ def main() -> int:
         gif_path=args.gif,
         png_path=args.png,
         mission_path=args.mission,
-        frame_count=args.frames,
+        telemetry_path=args.telemetry,
+        result_path=args.result,
         frame_duration_ms=args.frame_duration_ms,
     )
     print(json.dumps(mission, indent=2))

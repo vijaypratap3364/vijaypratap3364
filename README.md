@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="./assets/lunabot.gif" alt="VPS-1 Lunabot mining Vijay Pratap Singh's GitHub contribution grid" width="100%" />
-</p>
-
 <h1 align="center">Vijay Pratap Singh</h1>
 
 <p align="center">
   <strong>Computer Science Student @ Illinois Tech</strong><br/>
   AI/ML • Backend Systems • Robotics
+</p>
+
+<p align="center">
+  Building real-world AI/ML and software systems.<br/>
+  Open to AI/ML and SWE internships, research, and impactful engineering projects.
 </p>
 
 <p align="center">
@@ -17,9 +18,28 @@
   <a href="https://github.com/vijaypratap3364?tab=repositories"><strong>Repositories</strong></a>
 </p>
 
+---
+
+## Mission Telemetry
+
 <p align="center">
-  Building real-world AI/ML and software systems.<br/>
-  Open to AI/ML and SWE internships, research, and impactful engineering projects.
+  <img src="./assets/mission-telemetry.png" alt="Live Lunabot mission telemetry" width="100%" />
+</p>
+
+## Lunabot Mission
+
+<p align="center">
+  <img src="./assets/lunabot.gif" alt="VPS-1 Lunabot planning and mining Vijay's GitHub contribution map" width="100%" />
+</p>
+
+<p align="center">
+  <em>VPS-1 scans the contribution terrain, calculates a route, mines selected deposits, and returns to base.</em>
+</p>
+
+## Mission Output
+
+<p align="center">
+  <img src="./assets/mission-output.png" alt="Latest Lunabot mission result" width="100%" />
 </p>
 
 ---
@@ -88,13 +108,11 @@ End-to-end ML ticket-routing system with experiment tracking, deployment, and mo
 
 <br/>
 
-1. A scheduled GitHub Actions workflow requests the public contribution calendar.
+1. GitHub Actions requests the public contribution calendar.
 2. The calendar becomes a 53×7 lunar resource map.
-3. High-value contribution cells are selected as mining targets.
-4. VPS-1 plans a route, mines the deposits, and returns to base.
-5. The profile GIF and its static fallback are regenerated only when the underlying data changes.
-
-The implementation includes contribution-data validation, route planning, animated GIF rendering, automated tests, and daily deployment.
+3. High-value cells are selected as mining targets.
+4. VPS-1 scans, plans a route, mines the targets, and returns to base.
+5. The telemetry, mission animation, and mission output are regenerated daily.
 
 </details>
 

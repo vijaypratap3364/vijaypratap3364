@@ -18,6 +18,8 @@ class ProfilePackageTests(unittest.TestCase):
     def test_readme_references_existing_hero(self) -> None:
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
         self.assertIn("./assets/lunabot.gif", readme)
+        self.assertIn("./assets/mission-telemetry.png", readme)
+        self.assertIn("./assets/mission-output.png", readme)
         self.assertIn("singhvijaypratap1011@gmail.com", readme)
         self.assertIn("vijay-pratap-singh-", readme)
         self.assertTrue((ROOT / "assets/lunabot.gif").exists())
@@ -31,12 +33,15 @@ class ProfilePackageTests(unittest.TestCase):
             gif_path = temp / "test.gif"
             png_path = temp / "test.png"
             mission_path = temp / "mission.json"
+            telemetry_path = temp / "telemetry.png"
+            result_path = temp / "result.png"
             render_lunabot(
                 calendar,
                 gif_path=gif_path,
                 png_path=png_path,
                 mission_path=mission_path,
-                frame_count=6,
+                telemetry_path=telemetry_path,
+                result_path=result_path,
                 frame_duration_ms=40,
                 max_targets=8,
             )
@@ -45,6 +50,8 @@ class ProfilePackageTests(unittest.TestCase):
                 self.assertGreaterEqual(image.n_frames, 2)
             self.assertTrue(png_path.exists())
             self.assertTrue(mission_path.exists())
+            self.assertTrue(telemetry_path.exists())
+            self.assertTrue(result_path.exists())
 
 
 if __name__ == "__main__":
