@@ -6,7 +6,7 @@
     "from": "2025-08-07T00:00:00Z",
     "to": "2026-08-06T23:59:59Z"
   },
-  "totalContributions": 174,
+  "totalContributions": 176,
   "colors": [
     "#9be9a8",
     "#40c463",
@@ -1137,8 +1137,8 @@
           "date": "2025-12-26",
           "weekday": 5,
           "count": 7,
-          "level": 3,
-          "color": "#30a14e"
+          "level": 2,
+          "color": "#40c463"
         },
         {
           "date": "2025-12-27",
@@ -1157,8 +1157,8 @@
           "date": "2025-12-28",
           "weekday": 0,
           "count": 3,
-          "level": 2,
-          "color": "#40c463"
+          "level": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2025-12-29",
@@ -1302,8 +1302,8 @@
           "date": "2026-01-16",
           "weekday": 5,
           "count": 3,
-          "level": 2,
-          "color": "#40c463"
+          "level": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-17",
@@ -1398,8 +1398,8 @@
           "date": "2026-01-28",
           "weekday": 3,
           "count": 3,
-          "level": 2,
-          "color": "#40c463"
+          "level": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-29",
@@ -2374,15 +2374,15 @@
           "date": "2026-06-01",
           "weekday": 1,
           "count": 3,
-          "level": 2,
-          "color": "#40c463"
+          "level": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2026-06-02",
           "weekday": 2,
           "count": 3,
-          "level": 2,
-          "color": "#40c463"
+          "level": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2026-06-03",
@@ -2766,8 +2766,8 @@
           "date": "2026-07-21",
           "weekday": 2,
           "count": 8,
-          "level": 4,
-          "color": "#216e39"
+          "level": 3,
+          "color": "#30a14e"
         },
         {
           "date": "2026-07-22",
@@ -2780,8 +2780,8 @@
           "date": "2026-07-23",
           "weekday": 4,
           "count": 8,
-          "level": 4,
-          "color": "#216e39"
+          "level": 3,
+          "color": "#30a14e"
         },
         {
           "date": "2026-07-24",
@@ -2869,8 +2869,8 @@
           "date": "2026-08-03",
           "weekday": 1,
           "count": 10,
-          "level": 4,
-          "color": "#216e39"
+          "level": 3,
+          "color": "#30a14e"
         },
         {
           "date": "2026-08-04",
@@ -2882,7 +2882,7 @@
         {
           "date": "2026-08-05",
           "weekday": 3,
-          "count": 13,
+          "count": 15,
           "level": 4,
           "color": "#216e39"
         },
