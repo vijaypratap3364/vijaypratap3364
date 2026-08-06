@@ -37,8 +37,8 @@ def main() -> int:
         type=Path,
         default=REPO_ROOT / "output" / "mission.json",
     )
-    parser.add_argument("--frames", type=int, default=52)
-    parser.add_argument("--frame-duration-ms", type=int, default=105)
+    parser.add_argument("--frames", type=int, default=72)
+    parser.add_argument("--frame-duration-ms", type=int, default=170)
     args = parser.parse_args()
 
     calendar = json.loads(args.input.read_text(encoding="utf-8"))
