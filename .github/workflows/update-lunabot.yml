@@ -1,0 +1,73 @@
+name: Update Lunabot
+
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lunabot-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install renderer dependency
+        run: python -m pip install --requirement requirements.txt
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Fetch public contribution calendar
+        env:
+          GH_TOKEN: ${{ secrets.LUNABOT_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          python scripts/fetch_contributions.py \
+            --username "${{ github.repository_owner }}" \
+            --output output/contributions.json
+
+      - name: Generate profile hero
+        run: |
+          python scripts/generate_lunabot.py \
+            --input output/contributions.json \
+            --gif assets/lunabot.gif \
+            --png assets/lunabot-static.png \
+            --mission output/mission.json
+
+      - name: Commit changed profile assets
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            assets/lunabot.gif \
+            assets/lunabot-static.png \
+            output/contributions.json \
+            output/mission.json
+
+          if git diff --cached --quiet; then
+            echo "Lunabot is already current."
+            exit 0
+          fi
+
+          git commit -m "chore: update Lunabot contribution mission"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

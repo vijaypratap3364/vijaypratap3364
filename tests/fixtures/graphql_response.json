@@ -1,0 +1,129 @@
+{
+  "data": {
+    "user": {
+      "contributionsCollection": {
+        "startedAt": "2026-07-26T00:00:00Z",
+        "endedAt": "2026-08-08T23:59:59Z",
+        "contributionCalendar": {
+          "totalContributions": 26,
+          "colors": [
+            "#0e4429",
+            "#006d32",
+            "#26a641",
+            "#39d353"
+          ],
+          "weeks": [
+            {
+              "firstDay": "2026-07-26",
+              "contributionDays": [
+                {
+                  "date": "2026-07-26",
+                  "weekday": 0,
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE",
+                  "color": "#161b22"
+                },
+                {
+                  "date": "2026-07-27",
+                  "weekday": 1,
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE",
+                  "color": "#0e4429"
+                },
+                {
+                  "date": "2026-07-28",
+                  "weekday": 2,
+                  "contributionCount": 2,
+                  "contributionLevel": "SECOND_QUARTILE",
+                  "color": "#006d32"
+                },
+                {
+                  "date": "2026-07-29",
+                  "weekday": 3,
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE",
+                  "color": "#161b22"
+                },
+                {
+                  "date": "2026-07-30",
+                  "weekday": 4,
+                  "contributionCount": 4,
+                  "contributionLevel": "THIRD_QUARTILE",
+                  "color": "#26a641"
+                },
+                {
+                  "date": "2026-07-31",
+                  "weekday": 5,
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE",
+                  "color": "#161b22"
+                },
+                {
+                  "date": "2026-08-01",
+                  "weekday": 6,
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE",
+                  "color": "#161b22"
+                }
+              ]
+            },
+            {
+              "firstDay": "2026-08-02",
+              "contributionDays": [
+                {
+                  "date": "2026-08-02",
+                  "weekday": 0,
+                  "contributionCount": 3,
+                  "contributionLevel": "SECOND_QUARTILE",
+                  "color": "#006d32"
+                },
+                {
+                  "date": "2026-08-03",
+                  "weekday": 1,
+                  "contributionCount": 6,
+                  "contributionLevel": "THIRD_QUARTILE",
+                  "color": "#26a641"
+                },
+                {
+                  "date": "2026-08-04",
+                  "weekday": 2,
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE",
+                  "color": "#161b22"
+                },
+                {
+                  "date": "2026-08-05",
+                  "weekday": 3,
+                  "contributionCount": 10,
+                  "contributionLevel": "FOURTH_QUARTILE",
+                  "color": "#39d353"
+                },
+                {
+                  "date": "2026-08-06",
+                  "weekday": 4,
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE",
+                  "color": "#161b22"
+                },
+                {
+                  "date": "2026-08-07",
+                  "weekday": 5,
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE",
+                  "color": "#161b22"
+                },
+                {
+                  "date": "2026-08-08",
+                  "weekday": 6,
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE",
+                  "color": "#161b22"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}
