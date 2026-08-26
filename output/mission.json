@@ -1,13 +1,13 @@
 {
   "username": "vijaypratap3364",
-  "totalContributions": 397,
+  "totalContributions": 403,
   "activeDays": 59,
   "selectedTargets": 24,
   "routeStops": 24,
-  "routeSteps": 151,
-  "payloadUnits": 341,
+  "routeSteps": 149,
+  "payloadUnits": 345,
   "returnsToBase": true,
   "heroFormat": "animated-gif",
   "frameDurationMs": 200,
-  "frameCount": 181
+  "frameCount": 180
 }
