@@ -3,8 +3,8 @@
   "username": "vijaypratap3364",
   "source": "github-graphql",
   "range": {
-    "from": "2025-09-04T00:00:00Z",
-    "to": "2026-09-03T23:59:59Z"
+    "from": "2025-09-05T00:00:00Z",
+    "to": "2026-09-04T23:59:59Z"
   },
   "totalContributions": 405,
   "colors": [
@@ -24,15 +24,8 @@
   "weeks": [
     {
       "index": 0,
-      "firstDay": "2025-09-04",
+      "firstDay": "2025-09-05",
       "days": [
-        {
-          "date": "2025-09-04",
-          "weekday": 4,
-          "count": 0,
-          "level": 0,
-          "color": "#ebedf0"
-        },
         {
           "date": "2025-09-05",
           "weekday": 5,
@@ -2889,6 +2882,13 @@
         {
           "date": "2026-09-03",
           "weekday": 4,
+          "count": 0,
+          "level": 0,
+          "color": "#ebedf0"
+        },
+        {
+          "date": "2026-09-04",
+          "weekday": 5,
           "count": 0,
           "level": 0,
           "color": "#ebedf0"
