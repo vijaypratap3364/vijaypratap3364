@@ -4,10 +4,10 @@
   "activeDays": 62,
   "selectedTargets": 24,
   "routeStops": 24,
-  "routeSteps": 133,
+  "routeSteps": 131,
   "payloadUnits": 345,
   "returnsToBase": true,
   "heroFormat": "animated-gif",
   "frameDurationMs": 200,
-  "frameCount": 176
+  "frameCount": 174
 }
