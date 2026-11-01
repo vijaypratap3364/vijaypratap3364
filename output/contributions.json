@@ -3,15 +3,15 @@
   "username": "vijaypratap3364",
   "source": "github-graphql",
   "range": {
-    "from": "2025-11-01T00:00:00Z",
-    "to": "2026-10-31T23:59:59Z"
+    "from": "2025-11-02T00:00:00Z",
+    "to": "2026-11-01T23:59:59Z"
   },
   "totalContributions": 410,
   "colors": [
-    "#ffee4a",
-    "#ffc501",
-    "#fe9600",
-    "#03001c"
+    "#9be9a8",
+    "#40c463",
+    "#30a14e",
+    "#216e39"
   ],
   "stats": {
     "dayCount": 365,
@@ -24,19 +24,6 @@
   "weeks": [
     {
       "index": 0,
-      "firstDay": "2025-11-01",
-      "days": [
-        {
-          "date": "2025-11-01",
-          "weekday": 6,
-          "count": 0,
-          "level": 0,
-          "color": "#ebedf0"
-        }
-      ]
-    },
-    {
-      "index": 1,
       "firstDay": "2025-11-02",
       "days": [
         {
@@ -91,7 +78,7 @@
       ]
     },
     {
-      "index": 2,
+      "index": 1,
       "firstDay": "2025-11-09",
       "days": [
         {
@@ -146,7 +133,7 @@
       ]
     },
     {
-      "index": 3,
+      "index": 2,
       "firstDay": "2025-11-16",
       "days": [
         {
@@ -201,7 +188,7 @@
       ]
     },
     {
-      "index": 4,
+      "index": 3,
       "firstDay": "2025-11-23",
       "days": [
         {
@@ -256,7 +243,7 @@
       ]
     },
     {
-      "index": 5,
+      "index": 4,
       "firstDay": "2025-11-30",
       "days": [
         {
@@ -311,7 +298,7 @@
       ]
     },
     {
-      "index": 6,
+      "index": 5,
       "firstDay": "2025-12-07",
       "days": [
         {
@@ -366,7 +353,7 @@
       ]
     },
     {
-      "index": 7,
+      "index": 6,
       "firstDay": "2025-12-14",
       "days": [
         {
@@ -421,7 +408,7 @@
       ]
     },
     {
-      "index": 8,
+      "index": 7,
       "firstDay": "2025-12-21",
       "days": [
         {
@@ -457,26 +444,26 @@
           "weekday": 4,
           "count": 4,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2025-12-26",
           "weekday": 5,
           "count": 7,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2025-12-27",
           "weekday": 6,
           "count": 5,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         }
       ]
     },
     {
-      "index": 9,
+      "index": 8,
       "firstDay": "2025-12-28",
       "days": [
         {
@@ -484,21 +471,21 @@
           "weekday": 0,
           "count": 3,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2025-12-29",
           "weekday": 1,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2025-12-30",
           "weekday": 2,
           "count": 4,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2025-12-31",
@@ -531,7 +518,7 @@
       ]
     },
     {
-      "index": 10,
+      "index": 9,
       "firstDay": "2026-01-04",
       "days": [
         {
@@ -586,7 +573,7 @@
       ]
     },
     {
-      "index": 11,
+      "index": 10,
       "firstDay": "2026-01-11",
       "days": [
         {
@@ -608,40 +595,40 @@
           "weekday": 2,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-14",
           "weekday": 3,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-15",
           "weekday": 4,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-16",
           "weekday": 5,
           "count": 3,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-17",
           "weekday": 6,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         }
       ]
     },
     {
-      "index": 12,
+      "index": 11,
       "firstDay": "2026-01-18",
       "days": [
         {
@@ -656,14 +643,14 @@
           "weekday": 1,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-20",
           "weekday": 2,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-21",
@@ -684,19 +671,19 @@
           "weekday": 5,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-24",
           "weekday": 6,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         }
       ]
     },
     {
-      "index": 13,
+      "index": 12,
       "firstDay": "2026-01-25",
       "days": [
         {
@@ -711,7 +698,7 @@
           "weekday": 1,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-27",
@@ -725,14 +712,14 @@
           "weekday": 3,
           "count": 3,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-29",
           "weekday": 4,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-01-30",
@@ -751,7 +738,7 @@
       ]
     },
     {
-      "index": 14,
+      "index": 13,
       "firstDay": "2026-02-01",
       "days": [
         {
@@ -806,7 +793,7 @@
       ]
     },
     {
-      "index": 15,
+      "index": 14,
       "firstDay": "2026-02-08",
       "days": [
         {
@@ -821,21 +808,21 @@
           "weekday": 1,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-02-10",
           "weekday": 2,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-02-11",
           "weekday": 3,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-02-12",
@@ -856,12 +843,12 @@
           "weekday": 6,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         }
       ]
     },
     {
-      "index": 16,
+      "index": 15,
       "firstDay": "2026-02-15",
       "days": [
         {
@@ -890,7 +877,7 @@
           "weekday": 3,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-02-19",
@@ -916,7 +903,7 @@
       ]
     },
     {
-      "index": 17,
+      "index": 16,
       "firstDay": "2026-02-22",
       "days": [
         {
@@ -971,7 +958,7 @@
       ]
     },
     {
-      "index": 18,
+      "index": 17,
       "firstDay": "2026-03-01",
       "days": [
         {
@@ -1007,7 +994,7 @@
           "weekday": 4,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-03-06",
@@ -1026,7 +1013,7 @@
       ]
     },
     {
-      "index": 19,
+      "index": 18,
       "firstDay": "2026-03-08",
       "days": [
         {
@@ -1081,7 +1068,7 @@
       ]
     },
     {
-      "index": 20,
+      "index": 19,
       "firstDay": "2026-03-15",
       "days": [
         {
@@ -1110,7 +1097,7 @@
           "weekday": 3,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-03-19",
@@ -1136,7 +1123,7 @@
       ]
     },
     {
-      "index": 21,
+      "index": 20,
       "firstDay": "2026-03-22",
       "days": [
         {
@@ -1144,14 +1131,14 @@
           "weekday": 0,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-03-23",
           "weekday": 1,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-03-24",
@@ -1172,7 +1159,7 @@
           "weekday": 4,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-03-27",
@@ -1191,7 +1178,7 @@
       ]
     },
     {
-      "index": 22,
+      "index": 21,
       "firstDay": "2026-03-29",
       "days": [
         {
@@ -1246,7 +1233,7 @@
       ]
     },
     {
-      "index": 23,
+      "index": 22,
       "firstDay": "2026-04-05",
       "days": [
         {
@@ -1289,7 +1276,7 @@
           "weekday": 5,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-04-11",
@@ -1301,7 +1288,7 @@
       ]
     },
     {
-      "index": 24,
+      "index": 23,
       "firstDay": "2026-04-12",
       "days": [
         {
@@ -1337,7 +1324,7 @@
           "weekday": 4,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-04-17",
@@ -1356,7 +1343,7 @@
       ]
     },
     {
-      "index": 25,
+      "index": 24,
       "firstDay": "2026-04-19",
       "days": [
         {
@@ -1411,7 +1398,7 @@
       ]
     },
     {
-      "index": 26,
+      "index": 25,
       "firstDay": "2026-04-26",
       "days": [
         {
@@ -1466,7 +1453,7 @@
       ]
     },
     {
-      "index": 27,
+      "index": 26,
       "firstDay": "2026-05-03",
       "days": [
         {
@@ -1521,7 +1508,7 @@
       ]
     },
     {
-      "index": 28,
+      "index": 27,
       "firstDay": "2026-05-10",
       "days": [
         {
@@ -1576,7 +1563,7 @@
       ]
     },
     {
-      "index": 29,
+      "index": 28,
       "firstDay": "2026-05-17",
       "days": [
         {
@@ -1631,7 +1618,7 @@
       ]
     },
     {
-      "index": 30,
+      "index": 29,
       "firstDay": "2026-05-24",
       "days": [
         {
@@ -1686,7 +1673,7 @@
       ]
     },
     {
-      "index": 31,
+      "index": 30,
       "firstDay": "2026-05-31",
       "days": [
         {
@@ -1701,21 +1688,21 @@
           "weekday": 1,
           "count": 3,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-06-02",
           "weekday": 2,
           "count": 3,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-06-03",
           "weekday": 3,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-06-04",
@@ -1741,7 +1728,7 @@
       ]
     },
     {
-      "index": 32,
+      "index": 31,
       "firstDay": "2026-06-07",
       "days": [
         {
@@ -1796,7 +1783,7 @@
       ]
     },
     {
-      "index": 33,
+      "index": 32,
       "firstDay": "2026-06-14",
       "days": [
         {
@@ -1851,7 +1838,7 @@
       ]
     },
     {
-      "index": 34,
+      "index": 33,
       "firstDay": "2026-06-21",
       "days": [
         {
@@ -1906,7 +1893,7 @@
       ]
     },
     {
-      "index": 35,
+      "index": 34,
       "firstDay": "2026-06-28",
       "days": [
         {
@@ -1961,7 +1948,7 @@
       ]
     },
     {
-      "index": 36,
+      "index": 35,
       "firstDay": "2026-07-05",
       "days": [
         {
@@ -1976,14 +1963,14 @@
           "weekday": 1,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-07-07",
           "weekday": 2,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-07-08",
@@ -2016,7 +2003,7 @@
       ]
     },
     {
-      "index": 37,
+      "index": 36,
       "firstDay": "2026-07-12",
       "days": [
         {
@@ -2045,33 +2032,33 @@
           "weekday": 3,
           "count": 13,
           "level": 2,
-          "color": "#ffc501"
+          "color": "#40c463"
         },
         {
           "date": "2026-07-16",
           "weekday": 4,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-07-17",
           "weekday": 5,
           "count": 29,
           "level": 4,
-          "color": "#03001c"
+          "color": "#216e39"
         },
         {
           "date": "2026-07-18",
           "weekday": 6,
           "count": 4,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         }
       ]
     },
     {
-      "index": 38,
+      "index": 37,
       "firstDay": "2026-07-19",
       "days": [
         {
@@ -2086,28 +2073,28 @@
           "weekday": 1,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-07-21",
           "weekday": 2,
           "count": 15,
           "level": 2,
-          "color": "#ffc501"
+          "color": "#40c463"
         },
         {
           "date": "2026-07-22",
           "weekday": 3,
           "count": 45,
           "level": 4,
-          "color": "#03001c"
+          "color": "#216e39"
         },
         {
           "date": "2026-07-23",
           "weekday": 4,
           "count": 24,
           "level": 3,
-          "color": "#fe9600"
+          "color": "#30a14e"
         },
         {
           "date": "2026-07-24",
@@ -2126,7 +2113,7 @@
       ]
     },
     {
-      "index": 39,
+      "index": 38,
       "firstDay": "2026-07-26",
       "days": [
         {
@@ -2181,7 +2168,7 @@
       ]
     },
     {
-      "index": 40,
+      "index": 39,
       "firstDay": "2026-08-02",
       "days": [
         {
@@ -2196,7 +2183,7 @@
           "weekday": 1,
           "count": 10,
           "level": 2,
-          "color": "#ffc501"
+          "color": "#40c463"
         },
         {
           "date": "2026-08-04",
@@ -2210,7 +2197,7 @@
           "weekday": 3,
           "count": 15,
           "level": 2,
-          "color": "#ffc501"
+          "color": "#40c463"
         },
         {
           "date": "2026-08-06",
@@ -2224,19 +2211,19 @@
           "weekday": 5,
           "count": 22,
           "level": 3,
-          "color": "#fe9600"
+          "color": "#30a14e"
         },
         {
           "date": "2026-08-08",
           "weekday": 6,
           "count": 8,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         }
       ]
     },
     {
-      "index": 41,
+      "index": 40,
       "firstDay": "2026-08-09",
       "days": [
         {
@@ -2251,7 +2238,7 @@
           "weekday": 1,
           "count": 3,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-08-11",
@@ -2265,33 +2252,33 @@
           "weekday": 3,
           "count": 12,
           "level": 2,
-          "color": "#ffc501"
+          "color": "#40c463"
         },
         {
           "date": "2026-08-13",
           "weekday": 4,
           "count": 10,
           "level": 2,
-          "color": "#ffc501"
+          "color": "#40c463"
         },
         {
           "date": "2026-08-14",
           "weekday": 5,
           "count": 22,
           "level": 3,
-          "color": "#fe9600"
+          "color": "#30a14e"
         },
         {
           "date": "2026-08-15",
           "weekday": 6,
           "count": 4,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         }
       ]
     },
     {
-      "index": 42,
+      "index": 41,
       "firstDay": "2026-08-16",
       "days": [
         {
@@ -2299,14 +2286,14 @@
           "weekday": 0,
           "count": 34,
           "level": 4,
-          "color": "#03001c"
+          "color": "#216e39"
         },
         {
           "date": "2026-08-17",
           "weekday": 1,
           "count": 11,
           "level": 2,
-          "color": "#ffc501"
+          "color": "#40c463"
         },
         {
           "date": "2026-08-18",
@@ -2320,21 +2307,21 @@
           "weekday": 3,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-08-20",
           "weekday": 4,
           "count": 6,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-08-21",
           "weekday": 5,
           "count": 30,
           "level": 4,
-          "color": "#03001c"
+          "color": "#216e39"
         },
         {
           "date": "2026-08-22",
@@ -2346,7 +2333,7 @@
       ]
     },
     {
-      "index": 43,
+      "index": 42,
       "firstDay": "2026-08-23",
       "days": [
         {
@@ -2361,21 +2348,21 @@
           "weekday": 1,
           "count": 4,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-08-25",
           "weekday": 2,
           "count": 7,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-08-26",
           "weekday": 3,
           "count": 2,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-08-27",
@@ -2401,7 +2388,7 @@
       ]
     },
     {
-      "index": 44,
+      "index": 43,
       "firstDay": "2026-08-30",
       "days": [
         {
@@ -2444,7 +2431,7 @@
           "weekday": 5,
           "count": 4,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-09-05",
@@ -2456,7 +2443,7 @@
       ]
     },
     {
-      "index": 45,
+      "index": 44,
       "firstDay": "2026-09-06",
       "days": [
         {
@@ -2511,7 +2498,7 @@
       ]
     },
     {
-      "index": 46,
+      "index": 45,
       "firstDay": "2026-09-13",
       "days": [
         {
@@ -2566,7 +2553,7 @@
       ]
     },
     {
-      "index": 47,
+      "index": 46,
       "firstDay": "2026-09-20",
       "days": [
         {
@@ -2595,7 +2582,7 @@
           "weekday": 3,
           "count": 1,
           "level": 1,
-          "color": "#ffee4a"
+          "color": "#9be9a8"
         },
         {
           "date": "2026-09-24",
@@ -2621,7 +2608,7 @@
       ]
     },
     {
-      "index": 48,
+      "index": 47,
       "firstDay": "2026-09-27",
       "days": [
         {
@@ -2676,7 +2663,7 @@
       ]
     },
     {
-      "index": 49,
+      "index": 48,
       "firstDay": "2026-10-04",
       "days": [
         {
@@ -2731,7 +2718,7 @@
       ]
     },
     {
-      "index": 50,
+      "index": 49,
       "firstDay": "2026-10-11",
       "days": [
         {
@@ -2786,7 +2773,7 @@
       ]
     },
     {
-      "index": 51,
+      "index": 50,
       "firstDay": "2026-10-18",
       "days": [
         {
@@ -2841,7 +2828,7 @@
       ]
     },
     {
-      "index": 52,
+      "index": 51,
       "firstDay": "2026-10-25",
       "days": [
         {
@@ -2889,6 +2876,19 @@
         {
           "date": "2026-10-31",
           "weekday": 6,
+          "count": 0,
+          "level": 0,
+          "color": "#ebedf0"
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "firstDay": "2026-11-01",
+      "days": [
+        {
+          "date": "2026-11-01",
+          "weekday": 0,
           "count": 0,
           "level": 0,
           "color": "#ebedf0"
