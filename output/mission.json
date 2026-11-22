@@ -4,7 +4,7 @@
   "activeDays": 63,
   "selectedTargets": 24,
   "routeStops": 24,
-  "routeSteps": 125,
+  "routeSteps": 123,
   "payloadUnits": 345,
   "returnsToBase": true,
   "heroFormat": "animated-gif",
